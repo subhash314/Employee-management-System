@@ -1,1 +1,1 @@
-# Employee-management-System
+A real-time web-based Employee Management System to add, update, search, view, and delete employee records. Built with HTML, CSS for the frontend, Tomcat Server for backend, and MySQL for database, ensuring efficient, secure, and scalable employee data management.
